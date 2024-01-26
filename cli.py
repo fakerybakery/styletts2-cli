@@ -6,7 +6,7 @@ import click
 @click.option('--audio-sample', '-a', type=click.Path(exists=True), required=True)
 @click.option('--pth-path', '-p', type=click.Path(exists=True), required=True)
 @click.option('--file', '-f', default=False, show_default=True, help='Read from input text from file')
-def main(text, output, audio_sample, pth_path, f):
+def main(text, output, audio_sample, pth_path, file):
     if f:
         with open(text, 'r') as f:
             text = f.read()
