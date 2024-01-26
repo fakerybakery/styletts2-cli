@@ -19,3 +19,4 @@ click
 phonemizer
 txtsplit
 scipy
+cached_path
