@@ -1,4 +1,4 @@
-print("Audio Joiner for StyleTTS 2 CLI.")
+print("StyleTTS 2 CLI Inference")
 import click
 @click.command()
 @click.argument('text')
