@@ -31,3 +31,7 @@ Inference from a file:
 ```bash
 python cli.py file.txt -a 1.wav -p model.pth -f
 ```
+
+## License
+
+GPL due to Phonemizer (soon to be permissively licensed as soon as I find a permissively-licensed Phonemizer replacement)
