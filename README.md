@@ -1,3 +1,5 @@
+[Original Repo](https://github.com/yl4579/StyleTTS2) - **CLI Tool** - [Streaming API](https://github.com/neuralVox/styletts2)
+
 # Usage
 
 ## Join Audio CLI
